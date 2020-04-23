@@ -11,7 +11,7 @@ static int a;
 };
 
 
-
+//test
 class B{
     public:
     static int b;
