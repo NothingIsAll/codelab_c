@@ -1,0 +1,3 @@
+/Users/tlkg-014/codetest_c/数组是否需要深拷贝验证/CMakeFiles/rebuild_cache.dir
+/Users/tlkg-014/codetest_c/数组是否需要深拷贝验证/CMakeFiles/edit_cache.dir
+/Users/tlkg-014/codetest_c/数组是否需要深拷贝验证/CMakeFiles/test.dir
