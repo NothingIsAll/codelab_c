@@ -10,6 +10,8 @@ public:
 static int a;
 };
 
+
+
 class B{
     public:
     static int b;
